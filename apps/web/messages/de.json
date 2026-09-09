@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Lebensmittel-Finder"
+  },
+  "common": {
+    "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "loading": "Wird geladen...",
+    "backToApp": "Zurück zur App"
+  },
+  "auth": {
+    "loginTitle": "Anmelden",
+    "registerTitle": "Konto erstellen",
+    "emailLabel": "E-Mail",
+    "passwordLabel": "Passwort",
+    "loginButton": "Anmelden",
+    "registerButton": "Konto erstellen",
+    "toggleToRegister": "Noch kein Konto? Registrieren",
+    "toggleToLogin": "Bereits ein Konto? Anmelden",
+    "logoutButton": "Abmelden",
+    "demoHint": "Demo-Konto: demo@example.com / DemoPass123!",
+    "errors": {
+      "INVALID_CREDENTIALS": "Falsche E-Mail oder falsches Passwort.",
+      "EMAIL_TAKEN": "Diese E-Mail ist bereits registriert.",
+      "WEAK_PASSWORD": "Das Passwort muss mindestens 8 Zeichen lang sein.",
+      "INVALID_INPUT": "Bitte beide Felder ausfüllen.",
+      "UNKNOWN_ERROR": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+    }
+  },
+  "search": {
+    "placeholder": "Produkt suchen, z. B. Granola",
+    "button": "Suchen",
+    "recentTitle": "Letzte Suchen",
+    "noResults": "Keine Produkte für diese Suche gefunden.",
+    "loading": "Suche läuft..."
+  },
+  "product": {
+    "unnamedProduct": "Unbenanntes Produkt",
+    "unknownBrand": "Unbekannte Marke",
+    "nutritionTitle": "Nährwerte (pro 100g)",
+    "nutritionUnavailable": "Für dieses Produkt sind keine Nährwerte verfügbar.",
+    "subscribeToUnlock": "Abonniere, um detaillierte Nährwerte freizuschalten.",
+    "energy": "Energie",
+    "fat": "Fett",
+    "carbohydrates": "Kohlenhydrate",
+    "sugars": "davon Zucker",
+    "proteins": "Eiweiß",
+    "salt": "Salz",
+    "backToSearch": "Zurück zur Suche"
+  },
+  "subscription": {
+    "subscribeButton": "Abonnieren (monatlich)",
+    "subscribedBadge": "Abonniert",
+    "successTitle": "Abonnement aktiv",
+    "successMessage": "Danke! Dein Abonnement ist jetzt aktiv und die Nährwerte sind freigeschaltet.",
+    "cancelTitle": "Bezahlvorgang abgebrochen",
+    "cancelMessage": "Kein Problem — du kannst jederzeit über eine Produktseite abonnieren.",
+    "backToApp": "Zurück zur App"
+  },
+  "language": {
+    "label": "Sprache"
+  }
+}

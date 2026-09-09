@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Recherche de Produits Alimentaires"
+  },
+  "common": {
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "loading": "Chargement...",
+    "backToApp": "Retour à l'application"
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "registerTitle": "Créer un compte",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Mot de passe",
+    "loginButton": "Se connecter",
+    "registerButton": "Créer un compte",
+    "toggleToRegister": "Pas de compte ? S'inscrire",
+    "toggleToLogin": "Déjà un compte ? Se connecter",
+    "logoutButton": "Se déconnecter",
+    "demoHint": "Compte de démonstration : demo@example.com / DemoPass123!",
+    "errors": {
+      "INVALID_CREDENTIALS": "E-mail ou mot de passe incorrect.",
+      "EMAIL_TAKEN": "Cet e-mail est déjà enregistré.",
+      "WEAK_PASSWORD": "Le mot de passe doit contenir au moins 8 caractères.",
+      "INVALID_INPUT": "Veuillez remplir les deux champs.",
+      "UNKNOWN_ERROR": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "search": {
+    "placeholder": "Rechercher un produit, ex. granola",
+    "button": "Rechercher",
+    "recentTitle": "Recherches récentes",
+    "noResults": "Aucun produit trouvé pour cette recherche.",
+    "loading": "Recherche en cours..."
+  },
+  "product": {
+    "unnamedProduct": "Produit sans nom",
+    "unknownBrand": "Marque inconnue",
+    "nutritionTitle": "Valeurs nutritionnelles (pour 100g)",
+    "nutritionUnavailable": "Les valeurs nutritionnelles ne sont pas disponibles pour ce produit.",
+    "subscribeToUnlock": "Abonnez-vous pour débloquer les valeurs nutritionnelles détaillées.",
+    "energy": "Énergie",
+    "fat": "Matières grasses",
+    "carbohydrates": "Glucides",
+    "sugars": "dont sucres",
+    "proteins": "Protéines",
+    "salt": "Sel",
+    "backToSearch": "Retour à la recherche"
+  },
+  "subscription": {
+    "subscribeButton": "S'abonner (mensuel)",
+    "subscribedBadge": "Abonné",
+    "successTitle": "Abonnement actif",
+    "successMessage": "Merci ! Votre abonnement est maintenant actif et les valeurs nutritionnelles sont débloquées.",
+    "cancelTitle": "Paiement annulé",
+    "cancelMessage": "Pas de souci — vous pouvez vous abonner à tout moment depuis une page produit.",
+    "backToApp": "Retour à l'application"
+  },
+  "language": {
+    "label": "Langue"
+  }
+}

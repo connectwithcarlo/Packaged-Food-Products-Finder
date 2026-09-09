@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Voedingsproducten Zoeker"
+  },
+  "common": {
+    "error": "Er is iets misgegaan. Probeer het opnieuw.",
+    "loading": "Bezig met laden...",
+    "backToApp": "Terug naar de app"
+  },
+  "auth": {
+    "loginTitle": "Inloggen",
+    "registerTitle": "Account aanmaken",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Wachtwoord",
+    "loginButton": "Inloggen",
+    "registerButton": "Account aanmaken",
+    "toggleToRegister": "Nog geen account? Registreren",
+    "toggleToLogin": "Al een account? Inloggen",
+    "logoutButton": "Uitloggen",
+    "demoHint": "Demo-account: demo@example.com / DemoPass123!",
+    "errors": {
+      "INVALID_CREDENTIALS": "Onjuiste e-mail of wachtwoord.",
+      "EMAIL_TAKEN": "Dit e-mailadres is al geregistreerd.",
+      "WEAK_PASSWORD": "Wachtwoord moet minstens 8 tekens bevatten.",
+      "INVALID_INPUT": "Vul beide velden in.",
+      "UNKNOWN_ERROR": "Er is iets misgegaan. Probeer het opnieuw."
+    }
+  },
+  "search": {
+    "placeholder": "Zoek een product, bijv. granola",
+    "button": "Zoeken",
+    "recentTitle": "Recente zoekopdrachten",
+    "noResults": "Geen producten gevonden voor deze zoekopdracht.",
+    "loading": "Bezig met zoeken..."
+  },
+  "product": {
+    "unnamedProduct": "Naamloos product",
+    "unknownBrand": "Onbekend merk",
+    "nutritionTitle": "Voedingswaarden (per 100g)",
+    "nutritionUnavailable": "Voedingswaarden zijn niet beschikbaar voor dit product.",
+    "subscribeToUnlock": "Neem een abonnement om gedetailleerde voedingswaarden te ontgrendelen.",
+    "energy": "Energie",
+    "fat": "Vet",
+    "carbohydrates": "Koolhydraten",
+    "sugars": "waarvan suikers",
+    "proteins": "Eiwitten",
+    "salt": "Zout",
+    "backToSearch": "Terug naar zoeken"
+  },
+  "subscription": {
+    "subscribeButton": "Abonneren (maandelijks)",
+    "subscribedBadge": "Geabonneerd",
+    "successTitle": "Abonnement actief",
+    "successMessage": "Bedankt! Je abonnement is nu actief en voedingswaarden zijn ontgrendeld.",
+    "cancelTitle": "Afrekenen geannuleerd",
+    "cancelMessage": "Geen probleem — je kunt altijd later abonneren vanaf een productpagina.",
+    "backToApp": "Terug naar de app"
+  },
+  "language": {
+    "label": "Taal"
+  }
+}

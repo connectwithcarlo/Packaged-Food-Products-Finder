@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+dist/
+.next/
+.dev-db-url.txt
+*.log
+coverage/
+.env.local.example
+.local-mysql/
+

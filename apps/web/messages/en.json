@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Food Product Finder"
+  },
+  "common": {
+    "error": "Something went wrong. Please try again.",
+    "loading": "Loading...",
+    "backToApp": "Back to the app"
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "registerTitle": "Create an account",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "loginButton": "Log in",
+    "registerButton": "Create account",
+    "toggleToRegister": "Need an account? Register",
+    "toggleToLogin": "Already have an account? Log in",
+    "logoutButton": "Log out",
+    "demoHint": "Demo account: demo@example.com / DemoPass123!",
+    "errors": {
+      "INVALID_CREDENTIALS": "Incorrect email or password.",
+      "EMAIL_TAKEN": "That email is already registered.",
+      "WEAK_PASSWORD": "Password must be at least 8 characters.",
+      "INVALID_INPUT": "Please fill in both fields.",
+      "UNKNOWN_ERROR": "Something went wrong. Please try again."
+    }
+  },
+  "search": {
+    "placeholder": "Search for a product, e.g. granola",
+    "button": "Search",
+    "recentTitle": "Recent searches",
+    "noResults": "No products found for this search.",
+    "loading": "Searching..."
+  },
+  "product": {
+    "unnamedProduct": "Unnamed product",
+    "unknownBrand": "Unknown brand",
+    "nutritionTitle": "Nutrition (per 100g)",
+    "nutritionUnavailable": "Nutrition data isn't available for this product.",
+    "subscribeToUnlock": "Subscribe to unlock detailed nutrition values.",
+    "energy": "Energy",
+    "fat": "Fat",
+    "carbohydrates": "Carbohydrates",
+    "sugars": "of which sugars",
+    "proteins": "Proteins",
+    "salt": "Salt",
+    "backToSearch": "Back to search"
+  },
+  "subscription": {
+    "subscribeButton": "Subscribe (monthly)",
+    "subscribedBadge": "Subscribed",
+    "successTitle": "Subscription active",
+    "successMessage": "Thanks! Your subscription is now active and nutrition details are unlocked.",
+    "cancelTitle": "Checkout canceled",
+    "cancelMessage": "No worries — you can subscribe any time from a product page.",
+    "backToApp": "Back to the app"
+  },
+  "language": {
+    "label": "Language"
+  }
+}
